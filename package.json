@@ -1,0 +1,23 @@
+{
+  "name": "web_activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saisanjureddy/Web_Activity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saisanjureddy/Web_Activity/issues"
+  },
+  "homepage": "https://github.com/saisanjureddy/Web_Activity#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
